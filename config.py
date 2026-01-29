@@ -1,0 +1,3 @@
+CHUNK_SIZE = 800
+CHUNK_OVERLAP = 100
+VECTOR_DB_DIR = "data/chroma_db"
