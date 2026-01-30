@@ -1,13 +1,14 @@
 streamlit
 requests
 beautifulsoup4
-chromadb
+
+chromadb==0.4.24
 
 langchain==1.2.7
-langchain-text-splitters
+langchain-text-splitters==1.1.0
 
 sentence-transformers==2.7.0
-huggingface-hub==0.24.7
 transformers==4.40.2
-fastapi
-uvicorn
+huggingface-hub==0.24.7
+
+numpy<2.0
